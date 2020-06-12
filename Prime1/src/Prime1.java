@@ -24,5 +24,6 @@ public class Prime1 {
 		else
 			System.out.println(num + " is not a prime number.");
 		
+		input.close();		
 	}
 }
